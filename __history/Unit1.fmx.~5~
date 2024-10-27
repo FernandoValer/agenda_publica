@@ -15,11 +15,4 @@ object Form1: TForm1
     Text = 'Button1'
     TextSettings.Trimming = None
   end
-  object Label1: TLabel
-    Position.X = 168.000000000000000000
-    Position.Y = 112.000000000000000000
-    TextSettings.Trimming = None
-    Text = 'Nombre'
-    TabOrder = 2
-  end
 end
