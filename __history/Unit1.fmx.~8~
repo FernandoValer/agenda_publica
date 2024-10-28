@@ -28,8 +28,4 @@ object Form1: TForm1
     Text = 'SpeedButton1'
     TextSettings.Trimming = None
   end
-  object MediaPlayer1: TMediaPlayer
-    Left = 448
-    Top = 128
-  end
 end
